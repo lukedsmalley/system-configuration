@@ -77,3 +77,6 @@ The following applications have to be manually downloaded:
 backlight
 Never sleep on cover close
 Dark theme
+Git credentials
+Open windows maximized
+Open shell in desktop
