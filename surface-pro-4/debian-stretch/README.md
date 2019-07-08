@@ -44,7 +44,7 @@ sudo cp -rf ./root/*/ /
 ### Install applications from repositories
 ```sh
 sudo apt install apt-transport-https
-sudo apt install curl fonts-firacode git gparted lightdm-gtk-greeter-settings spotify-client
+sudo apt install curl fonts-firacode git gparted htop lightdm-gtk-greeter-settings spotify-client
 sudo apt install --no-install-recommends yarn
 ```
 
@@ -71,3 +71,9 @@ sudo apt install ./<app>.deb
 The following applications have to be manually downloaded:
 * [VSCode](https://code.visualstudio.com/)
 * [Discord](https://discordapp.com)
+
+### Todo
+/etc/lightdm.conf for autologin
+backlight
+Never sleep on cover close
+Dark theme
