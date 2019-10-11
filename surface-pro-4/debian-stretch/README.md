@@ -80,3 +80,26 @@ Dark theme
 Git credentials
 Open windows maximized
 Open shell in desktop
+IntelliJ
+DBeaver
+VSCode settings
+PIP + AWS CLI
+Python 3.7? Nah, it's new in buster
+Anaconda/PyCharm/Jupyter
+Terminal background to #222
+VSCode Markdown all-in-One, Nearley
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 250,
+    "editor.fontFamily": "'Fira Code', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": false,
+    "window.titleBarStyle": "custom",
+    "files.insertFinalNewline": true,
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/*/**": true
+    }
+}
